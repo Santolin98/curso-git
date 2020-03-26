@@ -7,6 +7,8 @@ namespace ProjetodeTesteGit
         static void Main(string[] args)
         {
             Console.WriteLine("Teste do Git");
+            Console.WriteLine("Bom dia!");
+
             Console.ReadLine();
         }
     }
